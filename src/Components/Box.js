@@ -36,7 +36,7 @@ export function Box(props) {
       .map(({ value }) => value)
   );
 
-  console.log("Box rendered");
+  // console.log("Box rendered");
 
   function Check(e) {
     if (start) {
