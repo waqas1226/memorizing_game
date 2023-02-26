@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/memorizing_game/static/css/main.5d172e7a.css",
-    "main.js": "/memorizing_game/static/js/main.ab8a0ed4.js",
+    "main.js": "/memorizing_game/static/js/main.ee5f4dd8.js",
     "static/js/787.cd3637e0.chunk.js": "/memorizing_game/static/js/787.cd3637e0.chunk.js",
     "static/media/A.JPG": "/memorizing_game/static/media/A.0bca8c48d56a3c53201f.JPG",
     "static/media/C.JPG": "/memorizing_game/static/media/C.fe1aec48f553c2efc110.JPG",
@@ -12,11 +12,11 @@
     "static/media/logo.svg": "/memorizing_game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/memorizing_game/index.html",
     "main.5d172e7a.css.map": "/memorizing_game/static/css/main.5d172e7a.css.map",
-    "main.ab8a0ed4.js.map": "/memorizing_game/static/js/main.ab8a0ed4.js.map",
+    "main.ee5f4dd8.js.map": "/memorizing_game/static/js/main.ee5f4dd8.js.map",
     "787.cd3637e0.chunk.js.map": "/memorizing_game/static/js/787.cd3637e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d172e7a.css",
-    "static/js/main.ab8a0ed4.js"
+    "static/js/main.ee5f4dd8.js"
   ]
 }
