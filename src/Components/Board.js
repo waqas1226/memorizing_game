@@ -38,7 +38,7 @@ color : ${w?"black":"transparent"}
     setStart(false);
  }
 
-  if (count == 40) {
+  if (count == 0) {
     setStart(false);
     setCount(50);
     setTimeup(true);
